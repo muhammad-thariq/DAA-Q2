@@ -1,5 +1,5 @@
 # Automated Feeds
-## Shortly introduce the problem and how graph theory is implemented
+## Shortly introduce the problem and how Kruskal algorithm is implemented
 In the evolving landscape of social media, user engagement is crucial to platform success. This proposal explores the application of graph-based algorithms to optimize social media timelines, with the goal of enhancing user satisfaction by presenting relevant, tailored content. By displaying posts that share thematic or content-based similarities, users will encounter a more curated experience, likely improving their comfort and engagement with the platform. We're implementing the graph usage for this project. In this project, we're implementing Kruskal's method.
 
 
