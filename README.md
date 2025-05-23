@@ -38,6 +38,4 @@ If the user inputs the number 1, the system will output "Operation aborted," ind
 ![image](https://github.com/user-attachments/assets/df239406-a3cc-49c4-a923-3c108f5d7f4b)
 
 
-## Shortly summarize result and its analysis
-
 
