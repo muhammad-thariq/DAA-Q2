@@ -23,6 +23,7 @@ If 2 is chosen, it will simply output the timeline, much like option 3 but witho
 
 ![WhatsApp Image 2024-12-09 at 17 21 50_1ec9cdc1](https://github.com/user-attachments/assets/f9ef2b11-4834-4171-b9a0-f8eb2b202d16)
 
+## Edges Connection :
 First run
 
 ![image](https://github.com/user-attachments/assets/600cd3b5-ca34-4773-a777-d726722b9441)
