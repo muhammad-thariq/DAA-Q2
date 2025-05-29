@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GraphExec {
     public static void main(String[] args) {
-        String fileName = "C:\\Users\\user\\Downloads\\automatedFeeds-main\\automatedFeeds-main\\inputAnalysis.tsv";
+        String fileName = "C:\\Users\\user\\Downloads\\automatedFeeds-main\\automatedFeeds-main\\input.tsv";
         
         Scanner myScanner = new Scanner(System.in);
         System.out.print("1. Abort Operation\n2. View Feed Only\n3. Add Feed\nEnter mode: ");
