@@ -1,4 +1,3 @@
-![{94EA61C7-1210-4751-832C-09CFC645AF92}](https://github.com/user-attachments/assets/fbadc1d2-72db-4ed8-a8d7-2c0ff5a50dfc)![image](https://github.com/user-attachments/assets/cf74caf8-3a81-40b8-8790-3de8011dc8b9)
 
 ## How to Run & Output
 Open the project (this repo) in a Java-compatible IDE.
