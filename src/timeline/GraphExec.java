@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class GraphExec {
     public static void main(String[] args) {
+        //Change this to the absolute path of this repository
         String fileName = "C:\\Users\\user\\Downloads\\automatedFeeds-main\\automatedFeeds-main\\input.tsv";
         
         Scanner myScanner = new Scanner(System.in);
